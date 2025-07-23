@@ -3,7 +3,7 @@ This project focuses on uncovering actionable business insights from a retail Su
 
 ## 🔍 Objective
 
-To analyze sales, profit, and shipping performance across various regions, categories, and customer segments, and to present findings through interactive dashboards for business decision-making.
+To analyze sales and profit across various regions, categories, and customer segments, and to present findings through interactive dashboards for business decision-making.
 
 ---
 
